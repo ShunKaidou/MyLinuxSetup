@@ -1,6 +1,6 @@
 # MyLinuxSetup
 
-- Download Nobara Nvidia Gnome from [NOBARA Website](https://nobaraproject.org/download-nobara/)
+- Download <u>Nobara Nvidia Gnome</u> from [NOBARA Website](https://nobaraproject.org/download-nobara/)
   
 - Flash using [Etcher](https://etcher.balena.io/) or [Ventoy](https://www.ventoy.net/en/index.html)
   
