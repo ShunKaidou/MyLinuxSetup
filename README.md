@@ -23,3 +23,4 @@ font: Dersu Uzala Brush
 <br>
 ![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b)
 <br>
+![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/6df19c68-d775-4cf1-86e7-152e0884e597)
