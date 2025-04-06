@@ -1,4 +1,4 @@
-# MyLinuxSetup
+### Download & Installation
 
 - Download **Nobara Nvidia Gnome** from [NOBARA Website](https://nobaraproject.org/download-nobara/)
   
