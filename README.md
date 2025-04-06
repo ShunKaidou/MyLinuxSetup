@@ -4,7 +4,7 @@
   
 - Flash using [Etcher](https://etcher.balena.io/) or [Ventoy](https://www.ventoy.net/en/index.html)
   
-- [Installation Guidelines](https://wiki.nobaraproject.org/en/new-user-guide-general-guidelines)
+- [Installation Guidelines](https://wiki.nobaraproject.org/en/new-user-guide-general-guidelines) (Important)
 
 ---
 
