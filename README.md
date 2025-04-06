@@ -11,7 +11,7 @@
 ### Grub
 
 <br>
-  ![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/cefa3f21-1125-4181-80b7-2b631f9a3055)
+![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b)
 <br>
 
 - [Sekiro Grub Theme Github](https://github.com/semimqmo/sekiro_grub_theme)
