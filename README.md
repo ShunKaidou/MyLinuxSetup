@@ -10,6 +10,10 @@
 
 ### Grub
 
+<br>
+<img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960" height="672">
+<br>
+
 
 
 - [Sekiro Grub Theme Github](https://github.com/semimqmo/sekiro_grub_theme)
@@ -20,7 +24,4 @@ font: Dersu Uzala Brush
 - [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
 
   
-<br>
-![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b)
-<br>
-![sekiro-shadows-die-twice-art_1920x1344](https://github.com/user-attachments/assets/6df19c68-d775-4cf1-86e7-152e0884e597)
+
