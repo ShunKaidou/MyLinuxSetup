@@ -62,7 +62,7 @@
 
 - Theme: womvamp [Source](https://github.com/mig/gedit-themes/blob/master/womvamp.xml) <br><br>
 
-<strong><code>womvamp.xml</code></strong>
+<strong><code>~/.local/share/gedit/styles/womvamp.xml</code></strong>
 ```
 <?xml version="1.0" ?>
 <style-scheme id="womvamp" name="WomVamp" version="1.0">
