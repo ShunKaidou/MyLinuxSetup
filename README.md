@@ -55,6 +55,14 @@
 
 ---
 
+### Browser
+
+#### Chromium
+
+#### Brave
+
+---
+
 ### Gedit
 
 - Font: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
@@ -125,14 +133,6 @@
 <br>
 <img src="https://github.com/user-attachments/assets/dccff79f-f464-4ebb-a1c4-c6ed6f1748ac" width="350">
 <br>
-
----
-
-### Browser
-
-#### Chromium
-
-#### Brave
 
 ---
 
