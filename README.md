@@ -24,6 +24,8 @@
 
 - Vlc
 
+- Htop
+
 - YT downloader(yt-dlp?)
 
 - VSCode
@@ -41,6 +43,10 @@
 #### Chromium
 
 #### Brave
+
+---
+
+### VSCode
 
 ---
 
