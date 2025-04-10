@@ -58,7 +58,7 @@
 
 ### Gedit
 
-- FONT: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
+- Font: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
 
 <br>
 <img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
