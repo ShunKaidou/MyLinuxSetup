@@ -58,7 +58,8 @@
 
 <div>
 	<img src="https://github.com/user-attachments/assets/0e09b9d0-c946-4e2f-8260-5907af6d0693" width="400">
-	<img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="300">
+	<br>
+	<img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="400">
 </div>
 	
 <br>
