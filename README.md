@@ -12,6 +12,7 @@
 
 <div>
 - Folio
+
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
 ```
