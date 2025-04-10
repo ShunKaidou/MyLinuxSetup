@@ -25,3 +25,9 @@
 - Font Used: Dersu Uzala Brush
   
 - [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
+
+### Keyboard Shortcut
+
+<br>
+<img src="https://github.com/user-attachments/assets/63af0a47-f980-4e41-a225-b2074be74aa8" width="960" height="672">
+<br>
