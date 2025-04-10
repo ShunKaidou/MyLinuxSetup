@@ -10,8 +10,8 @@
 
 ### Installed Apps
 
-<div>
-- Folio<br>
+
+- Folio
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
 ```
@@ -29,7 +29,6 @@ Comment=Note App
 	
 setting here
 
-</div>
 
 - Time Shift
 
