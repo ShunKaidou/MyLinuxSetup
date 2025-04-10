@@ -11,8 +11,7 @@
 ### Installed Apps
 
 <div>
-- Folio
-
+- Folio<br>
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
 ```
