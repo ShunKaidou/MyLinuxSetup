@@ -60,7 +60,7 @@
 
 - Font: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
 
-- Theme: womvamp [Source](https://github.com/mig/gedit-themes/blob/master/womvamp.xml) <br><br>
+- Theme: womvamp [Source](https://github.com/mig/gedit-themes/blob/master/womvamp.xml) <br>
 
 <strong><code>~/.local/share/gedit/styles/womvamp.xml</code></strong>
 ```
