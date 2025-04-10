@@ -10,21 +10,25 @@
 
 ### Installed Apps
 
-- Folio
-  
-<strong><code>~/.config/autostart/flatpak.desktop</code></strong>
-```
-[Desktop Entry]
-Type=Application
-Exec=flatpak run com.toolstack.Folio
-Hidden=false
-NoDisplay=false
-X-GNOME-Autostart-enabled=true
-Name[en_IN]=Folio
-Name=Folio
-Comment[en_IN]=Note App
-Comment=Note App
-```
+<div>
+	- Folio
+	  
+	<strong><code>~/.config/autostart/flatpak.desktop</code></strong>
+	```
+	[Desktop Entry]
+	Type=Application
+	Exec=flatpak run com.toolstack.Folio
+	Hidden=false
+	NoDisplay=false
+	X-GNOME-Autostart-enabled=true
+	Name[en_IN]=Folio
+	Name=Folio
+	Comment[en_IN]=Note App
+	Comment=Note App
+	```
+	
+	##setting
+</div>
 
 - Time Shift
 
