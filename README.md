@@ -79,9 +79,5 @@
 <br>
 
 <br>
-<img src="https://github.com/user-attachments/assets/b13ca31c-bc31-4ac6-b3cb-be466bf20648" width="350">
-<br>
-
-<br>
 <img src="" width="350">
 <br>
