@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b13ca31c-bc31-4ac6-b3cb-be466bf20648)### Download & Installation
+### Download & Installation
 
 - Download **Nobara Nvidia Gnome** from [NOBARA Website](https://nobaraproject.org/download-nobara/)
   
@@ -79,7 +79,7 @@
 <br>
 
 <br>
-<img src="" width="350">
+<img src="https://github.com/user-attachments/assets/b13ca31c-bc31-4ac6-b3cb-be466bf20648" width="350">
 <br>
 
 <br>
