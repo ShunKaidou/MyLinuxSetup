@@ -52,6 +52,35 @@
 
 ---
 
+### Extension Manager
+
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+
+<br>
+<img src="https://github.com/user-attachments/assets/0e09b9d0-c946-4e2f-8260-5907af6d0693" width="300">
+<br>
+
+<br>
+<img src="" width="300">
+<br>
+
+<br>
+<img src="" width="300">
+<br>
+
+<br>
+<img src="" width="300">
+<br>
+
+<br>
+<img src="" width="300">
+<br>
+
+
+
+
+---
+
 ### Gedit
 
 - Font: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
