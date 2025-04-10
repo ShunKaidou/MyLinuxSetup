@@ -8,25 +8,6 @@
 
 ---
 
-### Grub
-
-- how to do stuff here
-
-- df
-
-<img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960" height="672">
-<br>
-
-- [Sekiro Grub Theme Github](https://github.com/semimqmo/sekiro_grub_theme) or [Direct Download](https://github.com/user-attachments/files/19694663/sekiro_grub_theme-main.zip)
-  
-- [Grub Themes Website](https://www.gnome-look.org/browse?cat=109&ord=latest)
-
-- Font Used: Dersu Uzala Brush
-  
-- [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
-
----
-
 ### Installed Apps
 
 - Folio
@@ -166,3 +147,23 @@
 <img src="https://github.com/user-attachments/assets/f28a6b37-7b1b-4d0a-9946-ac10c9735f08" width="350">
 <br>
 
+---
+
+### Grub
+
+- how to do stuff here
+
+- df
+
+<img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960" height="672">
+<br>
+
+- [Sekiro Grub Theme Github](https://github.com/semimqmo/sekiro_grub_theme) or [Direct Download](https://github.com/user-attachments/files/19694663/sekiro_grub_theme-main.zip)
+  
+- [Grub Themes Website](https://www.gnome-look.org/browse?cat=109&ord=latest)
+
+- Font Used: Dersu Uzala Brush
+  
+- [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
+
+---
