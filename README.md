@@ -1,4 +1,4 @@
-### Download & Installation
+![image](https://github.com/user-attachments/assets/b13ca31c-bc31-4ac6-b3cb-be466bf20648)### Download & Installation
 
 - Download **Nobara Nvidia Gnome** from [NOBARA Website](https://nobaraproject.org/download-nobara/)
   
@@ -46,4 +46,42 @@
 
 <br>
 <img src="https://github.com/user-attachments/assets/dccff79f-f464-4ebb-a1c4-c6ed6f1748ac" width="350">
+<br>
+
+### Other Settings
+
+<br>
+<img src="https://github.com/user-attachments/assets/5dd46ade-da46-4515-a2a1-5cad326fedce" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/2b8800c5-5582-4f67-8cff-6bd191702127" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/a7ad79b2-6221-44a1-adf5-c771bf912c99" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/26573d59-926c-46e6-8842-5038a8f87e12" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/0aa3d182-e9c4-4ceb-9a75-88537266289f" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/029b497b-713b-45a1-a121-e4394dfb5c8d" width="350">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/f28a6b37-7b1b-4d0a-9946-ac10c9735f08" width="350">
+<br>
+
+<br>
+<img src="" width="350">
+<br>
+
+<br>
+<img src="" width="350">
 <br>
