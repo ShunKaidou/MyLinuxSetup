@@ -30,6 +30,8 @@
 
 - VSCode
 
+- Virtual Machine Manager (Windows 7 Ultimate)
+
 - Neofetch (Archived)
 
 - Dconf Editor
