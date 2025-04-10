@@ -26,6 +26,50 @@
   
 - [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
 
+### Installed Apps
+
+- Folio
+
+- Time Shift
+
+- Telegram-Desktop
+
+- Transmission
+
+- BleachBit
+
+- Chromium, Brave
+
+- Vlc
+
+- YT downloader(yt-dlp?)
+
+- VSCode
+
+- Neofetch (Archived)
+
+- Dconf Editor
+
+- Extension Manager
+
+### Gedit
+
+<br>
+<img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/f56a2407-86c6-4acf-a8d0-aea08b1a1b37" width="300">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/2b3f45cd-70fa-41a5-8947-a46a81ff675a" width="300">
+<br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/7baebfdb-4d35-4ee5-96aa-93974c900cb7" width="300">
+<br>
+
 ### Keyboard Shortcuts
 
 <br>
@@ -47,6 +91,12 @@
 <br>
 <img src="https://github.com/user-attachments/assets/dccff79f-f464-4ebb-a1c4-c6ed6f1748ac" width="350">
 <br>
+
+### Browser
+
+#### Chromium
+
+#### Brave
 
 ### Other Settings
 
@@ -78,6 +128,3 @@
 <img src="https://github.com/user-attachments/assets/f28a6b37-7b1b-4d0a-9946-ac10c9735f08" width="350">
 <br>
 
-<br>
-<img src="" width="350">
-<br>
