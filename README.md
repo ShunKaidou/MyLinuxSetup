@@ -29,5 +29,5 @@
 ### Keyboard Shortcut
 
 <br>
-<img src="https://github.com/user-attachments/assets/63af0a47-f980-4e41-a225-b2074be74aa8" width="300">
+<img src="https://github.com/user-attachments/assets/63af0a47-f980-4e41-a225-b2074be74aa8" width="350">
 <br>
