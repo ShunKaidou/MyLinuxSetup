@@ -26,6 +26,8 @@
   
 - [Useful tool for testing grub themes](https://github.com/hartwork/grub2-theme-preview) (Optional)
 
+---
+
 ### Installed Apps
 
 - Folio
@@ -52,7 +54,11 @@
 
 - Extension Manager
 
+---
+
 ### Gedit
+
+- FONT: [FiraCode](https://fonts.google.com/specimen/Fira+Code)
 
 <br>
 <img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
@@ -69,6 +75,8 @@
 <br>
 <img src="https://github.com/user-attachments/assets/7baebfdb-4d35-4ee5-96aa-93974c900cb7" width="300">
 <br>
+
+---
 
 ### Keyboard Shortcuts
 
@@ -92,11 +100,15 @@
 <img src="https://github.com/user-attachments/assets/dccff79f-f464-4ebb-a1c4-c6ed6f1748ac" width="350">
 <br>
 
+---
+
 ### Browser
 
 #### Chromium
 
 #### Brave
+
+---
 
 ### Other Settings
 
