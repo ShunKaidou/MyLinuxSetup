@@ -100,9 +100,12 @@ setting here
 
 _Adds support for legacy system tray icons (e.g., Telegram, etc.). May be preinstalled, Check before installing._
 
-#### [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
+<br><br>
 
-_Browser->1 Coding->2 Terminal->3 Nautilus->4_
+#### 🪟 [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
+
+_Automatically places apps in specific workspaces on launch (e.g., Browser → 1, Coding → 2, Terminal → 3, Files → 4)._
+
 
 <br>
 <img src="" width="300">
