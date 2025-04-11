@@ -100,6 +100,10 @@ setting here
 
 _Adds support for legacy system tray icons (e.g., Telegram, etc.). May be preinstalled, Check before installing._
 
+#### [Auto Move Windows](https://extensions.gnome.org/extension/16/auto-move-windows/)
+
+_Browser->1 Coding->2 Terminal->3 Nautilus->4_
+
 <br>
 <img src="" width="300">
 <br>
