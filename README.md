@@ -11,8 +11,9 @@
 ### Installed Apps
 
 
-- Folio
-  _ddf_
+- [Folio](https://github.com/toolstack/Folio)
+
+   _A simple and clean note-taking app, Set to auto-start on login to remind you of tasks, notes, or work stuff._
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
 ```ini
