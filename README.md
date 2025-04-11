@@ -14,7 +14,7 @@
 - Folio
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
-```
+```ini
 [Desktop Entry]
 Type=Application
 Exec=flatpak run com.toolstack.Folio
