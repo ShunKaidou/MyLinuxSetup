@@ -74,7 +74,7 @@ setting here
 
 ### Extension Manager
 
-#### [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+#### 🔧 [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0e09b9d0-c946-4e2f-8260-5907af6d0693" width="400">
@@ -96,7 +96,7 @@ setting here
 
 <br><br>
 
-#### [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) (This is Optional and might be preinstalled, Adds support for legacy tray icons like telegram etc)
+#### 🧲 [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) (This is Optional and might be preinstalled, Adds support for legacy tray icons like telegram etc)
 
 <br>
 <img src="" width="300">
