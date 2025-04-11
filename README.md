@@ -80,8 +80,8 @@ setting here
 	<img src="https://github.com/user-attachments/assets/0e09b9d0-c946-4e2f-8260-5907af6d0693" width="400">
 	<br>
 	<img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="400">
-	<br>
 
+<br>
 **Stats Tracked**
 
 🌡️ Temperature: Maximum  
@@ -93,6 +93,7 @@ setting here
 🌐 Network: Boot RX/TX, Public IP, Wi-Fi Link Quality, `wlp4r0` RX/TX  
 💾 Storage: Free  
 🔋 Battery: Rate & Cycles
+<br>
 
 </div>
 	
