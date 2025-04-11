@@ -42,6 +42,8 @@ setting here
 
 - Vlc
 
+- [fzf](https://github.com/junegunn/fzf) (Fuzzy Finder)
+
 - Htop
 
 - YT downloader(yt-dlp?)
