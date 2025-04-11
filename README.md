@@ -94,6 +94,8 @@ setting here
 💾 **Storage:** Free  
 🔋 **Battery:** Rate & Cycles
 
+<br><br>
+
 #### [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) (This is Optional and might be preinstalled, Adds support for legacy tray icons like telegram etc)
 
 <br>
