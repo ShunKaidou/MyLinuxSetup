@@ -8,6 +8,12 @@
 
 ---
 
+### Partition
+
+partition details here
+
+---
+
 ### Installed Apps
 
 
