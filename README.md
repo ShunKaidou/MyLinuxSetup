@@ -92,10 +92,9 @@ setting here
 📈 **System:** Load (5M) & Uptime  
 🌐 **Network:** Boot RX/TX, Public IP, Wi-Fi Link Quality, `wlp4r0` RX/TX  
 💾 **Storage:** Free  
-🔋 **Battery:** Rate & Cycles
+🔋 **Battery:** Rate & Cycles<br>
 
-
-- ksfjks	
+- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) (This is Optional and might be preinstalled, Adds support for legacy tray icons like telegram etc)
 <br>
 <img src="" width="300">
 <br>
