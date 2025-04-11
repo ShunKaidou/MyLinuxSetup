@@ -81,16 +81,19 @@ setting here
 	<br>
 	<img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="400">
 
-Temperature: Maximum
-Voltage: Average
-Fan: Average
-Memory: Allocated and Usage
-Processor: Usage
-System: Load 5M and Uptime
-Network: Boot rx, Boot tx, Public IP, Wifi Link Quality, wlp4r0 rx, wlp4r0 tx
-Storage: Free
-Battery: Rate and Cycles
- 
+
+**Stats Tracked**
+
+🌡️ Temperature: Maximum  
+⚡ Voltage: Average  
+🌀 Fan: Average  
+🧠 Memory: Allocated and Usage  
+🖥️ Processor: Usage  
+📈 System: Load (5M) & Uptime  
+🌐 Network: Boot RX/TX, Public IP, Wi-Fi Link Quality, `wlp4r0` RX/TX  
+💾 Storage: Free  
+🔋 Battery: Rate & Cycles
+
 </div>
 	
 <br>
