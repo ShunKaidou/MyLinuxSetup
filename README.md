@@ -60,7 +60,7 @@ setting here
 
 - Virtual Machine Manager (Windows 7 Ultimate)
 
-- Neofetch (Archived)
+- ~~Neofetch (Archived)~~ [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 - Dconf Editor
 
