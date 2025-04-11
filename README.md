@@ -98,7 +98,7 @@ setting here
 
 #### 🧲 [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
 
-_Adds support for legacy system tray icons (e.g., Telegram, Discord, Dropbox, etc.). May be preinstalled on some distros like Nobara._
+_Adds support for legacy system tray icons (e.g., Telegram, etc.). May be preinstalled, Check before installing._
 
 <br>
 <img src="" width="300">
