@@ -12,6 +12,7 @@
 
 
 - Folio
+  _ddf_
 	  
 <strong><code>~/.config/autostart/flatpak.desktop</code></strong>
 ```ini
