@@ -82,8 +82,9 @@ setting here
   <img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="400">
 </div>
 
-<br>
+
 📊 Stats Tracked
+
 🌡️ **Temperature:** Maximum  
 ⚡ **Voltage:** Average  
 🌀 **Fan:** Average  
@@ -95,7 +96,7 @@ setting here
 🔋 **Battery:** Rate & Cycles
 
 
-	
+- ksfjks	
 <br>
 <img src="" width="300">
 <br>
