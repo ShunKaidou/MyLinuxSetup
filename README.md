@@ -76,11 +76,22 @@ setting here
 
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 
-
+<div>
 	<img src="https://github.com/user-attachments/assets/0e09b9d0-c946-4e2f-8260-5907af6d0693" width="400">
 	<br>
 	<img src="https://github.com/user-attachments/assets/cf344c64-a683-442e-a556-c00f3cd23f0b" width="400">
 
+Temperature: Maximum
+Voltage: Average
+Fan: Average
+Memory: Allocated and Usage
+Processor: Usage
+System: Load 5M and Uptime
+Network: Boot rx, Boot tx, Public IP, Wifi Link Quality, wlp4r0 rx, wlp4r0 tx
+Storage: Free
+Battery: Rate and Cycles
+ 
+</div>
 	
 <br>
 <img src="" width="300">
