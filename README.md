@@ -126,8 +126,6 @@ setting here
 </div>
 
 
-📊 Stats Tracked
-
 🌡️ **Temperature:** Maximum  
 ⚡ **Voltage:** Average  
 🌀 **Fan:** Average  
