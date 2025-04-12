@@ -48,6 +48,8 @@ setting here
 
 - [Telegram-Desktop](https://github.com/telegramdesktop/tdesktop)
 
+  _TELEGRAM_
+
 <br><br>
 
 - [Transmission](https://github.com/transmission/transmission)
