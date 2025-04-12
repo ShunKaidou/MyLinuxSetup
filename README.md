@@ -38,6 +38,10 @@ partition details here
 
 <br><br>
 
+- ~~Neofetch~~ [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+<br><br>
+
 - [Folio](https://github.com/toolstack/Folio)
 
    _A simple and clean note-taking app, Set to auto-start on login to remind you of tasks, notes, or work stuff._
@@ -60,16 +64,24 @@ setting here
 
 <br><br>
 
-- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (both optional; use based on your needs)
+- [fzf](https://github.com/junegunn/fzf) (Fuzzy Finder)
 
-  _**Timeshift** – Tool for creating system restore points before updates or config changes._<br>
-  _**Back In Time** – Tool for backing up personal files, configs, and documents with versioning support._
+<br><br>
+
+- Htop
 
 <br><br>
 
 - [Telegram-Desktop](https://github.com/telegramdesktop/tdesktop)
 
   _TELEGRAM_
+
+<br><br>
+
+- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (both optional; use based on your needs)
+
+  _**Timeshift** – Tool for creating system restore points before updates or config changes._<br>
+  _**Back In Time** – Tool for backing up personal files, configs, and documents with versioning support._
 
 <br><br>
 
@@ -83,27 +95,15 @@ setting here
 
   <br><br>
 
-- [fzf](https://github.com/junegunn/fzf) (Fuzzy Finder)
-
-  <br><br>
-
-- Htop
-
-  <br><br>
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-  <br><br>
-
 - VSCode
 
   <br><br>
 
 - Virtual Machine Manager (Windows 7 Ultimate)
 
-  <br><br>
+<br><br>
 
-- ~~Neofetch (Archived)~~ [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 <br>
 
