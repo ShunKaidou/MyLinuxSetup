@@ -208,9 +208,6 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 ```
 
 <br>
-
-<div align="center">
-<br>
 <img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
 <br>
 <br>
@@ -222,7 +219,6 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 <br>
 <img src="https://github.com/user-attachments/assets/7baebfdb-4d35-4ee5-96aa-93974c900cb7" width="300">
 <br>
-</div>
 
 ---
 
