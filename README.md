@@ -206,25 +206,21 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 	<style foreground="#e7f6da" name="def:specials"/>
 </style-scheme>
 ```
+<br>
 
 <div align="center">
-
 <br>
 <img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
 <br>
-
 <br>
 <img src="https://github.com/user-attachments/assets/f56a2407-86c6-4acf-a8d0-aea08b1a1b37" width="300">
 <br>
-
 <br>
 <img src="https://github.com/user-attachments/assets/2b3f45cd-70fa-41a5-8947-a46a81ff675a" width="300">
 <br>
-
 <br>
 <img src="https://github.com/user-attachments/assets/7baebfdb-4d35-4ee5-96aa-93974c900cb7" width="300">
 <br>
-
 </div>
 
 ---
