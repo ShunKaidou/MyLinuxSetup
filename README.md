@@ -52,25 +52,51 @@ setting here
 
 - [Transmission](https://github.com/transmission/transmission)
 
-- BleachBit
+  _Fast, lightweight BitTorrent client for easy and efficient torrent downloads with minimal interface._
+
+  <br><br>
+
+- [BleachBit](https://github.com/bleachbit/bleachbit)
+
+  _Tool that cleans junk files and optimizes your system for better performance and privacy._
+
+  <br><br>
 
 - Chromium, Brave
 
+  <br><br>
+
 - Vlc
+
+  <br><br>
 
 - [fzf](https://github.com/junegunn/fzf) (Fuzzy Finder)
 
+  <br><br>
+
 - Htop
+
+  <br><br>
 
 - YT downloader(yt-dlp?)
 
+  <br><br>
+
 - VSCode
+
+  <br><br>
 
 - Virtual Machine Manager (Windows 7 Ultimate)
 
+  <br><br>
+
 - ~~Neofetch (Archived)~~ [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
+  <br><br>
+
 - Dconf Editor
+
+  <br><br>
 
 - Extension Manager
 
