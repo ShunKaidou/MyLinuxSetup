@@ -16,6 +16,27 @@ partition details here
 
 ### Installed Apps
 
+- [BleachBit](https://github.com/bleachbit/bleachbit)
+
+  _Tool that cleans junk files and optimizes your system for better performance and privacy._
+
+<br><br>
+
+- Brave
+
+<br><br>
+
+- Chromium
+
+<br><br>
+
+- Dconf Editor
+
+<br><br>
+
+- Extension Manager
+
+<br><br>
 
 - [Folio](https://github.com/toolstack/Folio)
 
@@ -58,16 +79,6 @@ setting here
 
   <br><br>
 
-- [BleachBit](https://github.com/bleachbit/bleachbit)
-
-  _Tool that cleans junk files and optimizes your system for better performance and privacy._
-
-  <br><br>
-
-- Chromium, Brave
-
-  <br><br>
-
 - Vlc
 
   <br><br>
@@ -80,7 +91,7 @@ setting here
 
   <br><br>
 
-- YT downloader(yt-dlp?)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
   <br><br>
 
@@ -94,13 +105,7 @@ setting here
 
 - ~~Neofetch (Archived)~~ [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
-  <br><br>
-
-- Dconf Editor
-
-  <br><br>
-
-- Extension Manager
+<br>
 
 ---
 
