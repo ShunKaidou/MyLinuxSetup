@@ -40,9 +40,9 @@ setting here
 
 - [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime)
 
-  _Optional tools for system restore points and personal file backups, respectively_
-  _Timeshift – Optional tool for creating system restore points before updates or config changes._
+  _Timeshift – Optional tool for creating system restore points before updates or config changes._<br>
   _Back In Time – Optional tool for backing up personal files, configs, and documents with versioning support._
+
 
 - [Telegram-Desktop](https://github.com/telegramdesktop/tdesktop)
 
