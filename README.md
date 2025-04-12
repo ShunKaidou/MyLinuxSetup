@@ -37,14 +37,18 @@ Comment=Note App
 	
 setting here
 
+<br><br>
 
 - [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime)
 
   _Timeshift – Optional tool for creating system restore points before updates or config changes._<br>
   _Back In Time – Optional tool for backing up personal files, configs, and documents with versioning support._
 
+<br><br>
 
 - [Telegram-Desktop](https://github.com/telegramdesktop/tdesktop)
+
+<br><br>
 
 - [Transmission](https://github.com/transmission/transmission)
 
