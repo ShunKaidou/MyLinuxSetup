@@ -39,10 +39,10 @@ setting here
 
 <br><br>
 
-- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime)
+- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (both optional; use based on your needs)
 
-  _Timeshift – Optional tool for creating system restore points before updates or config changes._<br>
-  _Back In Time – Optional tool for backing up personal files, configs, and documents with versioning support._
+  _**Timeshift** – Tool for creating system restore points before updates or config changes._<br>
+  _**Back In Time** – Tool for backing up personal files, configs, and documents with versioning support._
 
 <br><br>
 
