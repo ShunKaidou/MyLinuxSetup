@@ -206,7 +206,7 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 	<style foreground="#e7f6da" name="def:specials"/>
 </style-scheme>
 ```
-
+<div align="center">
 <br>
 <img src="https://github.com/user-attachments/assets/f3a074fb-ebd5-4ecc-8b3c-7942002c9178" width="300">
 <br>
@@ -219,11 +219,13 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 <br>
 <img src="https://github.com/user-attachments/assets/7baebfdb-4d35-4ee5-96aa-93974c900cb7" width="300">
 <br>
+</div>
 
 ---
 
 ### Keyboard Shortcuts
 
+<div align="center">
 <br>
 <img src="https://github.com/user-attachments/assets/63af0a47-f980-4e41-a225-b2074be74aa8" width="350">
 <br>
@@ -243,11 +245,13 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 <br>
 <img src="https://github.com/user-attachments/assets/dccff79f-f464-4ebb-a1c4-c6ed6f1748ac" width="350">
 <br>
+</div>
 
 ---
 
 ### Other Settings
 
+<div align="center">
 <br>
 <img src="https://github.com/user-attachments/assets/5dd46ade-da46-4515-a2a1-5cad326fedce" width="350">
 <br>
@@ -275,6 +279,8 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 <br>
 <img src="https://github.com/user-attachments/assets/f28a6b37-7b1b-4d0a-9946-ac10c9735f08" width="350">
 <br>
+</div>
+
 
 ---
 
@@ -283,9 +289,11 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 - how to do stuff here
 
 - df
-
+  
+<div align="center">
 <img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960" height="672">
 <br>
+</div>
 
 - [Sekiro Grub Theme Github](https://github.com/semimqmo/sekiro_grub_theme) or [Direct Download](https://github.com/user-attachments/files/19694663/sekiro_grub_theme-main.zip)
   
