@@ -183,7 +183,7 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 - Theme: womvamp [Source](https://github.com/mig/gedit-themes/blob/master/womvamp.xml) <br>
 
 <strong><code>~/.local/share/gedit/styles/womvamp.xml</code></strong>
-```
+```xml
 <?xml version="1.0" ?>
 <style-scheme id="womvamp" name="WomVamp" version="1.0">
 	<author/>
@@ -206,6 +206,7 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 	<style foreground="#e7f6da" name="def:specials"/>
 </style-scheme>
 ```
+
 <br>
 
 <div align="center">
