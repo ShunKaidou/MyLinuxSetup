@@ -1,7 +1,7 @@
 ### Download & Installation
 
 1. Download **Nobara Nvidia Gnome** from [NOBARA Website](https://nobaraproject.org/download-nobara/)<br>
-   _MultiBoot [Regolith Linux](https://regolith-desktop.com/) if possible, steps not included here_
+  <!-- _MultiBoot [Regolith Linux](https://regolith-desktop.com/) if possible, steps not included here_ -->
   
 3. Flash using [Etcher](https://etcher.balena.io/) or [Ventoy](https://www.ventoy.net/en/index.html)
   
