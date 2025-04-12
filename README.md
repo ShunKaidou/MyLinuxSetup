@@ -38,11 +38,15 @@ Comment=Note App
 setting here
 
 
-- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (Optional tools for system restore points and personal file backups, respectively.)
+- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime)
 
-- Telegram-Desktop
+  _Optional tools for system restore points and personal file backups, respectively_
+  _Timeshift – Optional tool for creating system restore points before updates or config changes._
+  _Back In Time – Optional tool for backing up personal files, configs, and documents with versioning support._
 
-- Transmission
+- [Telegram-Desktop](https://github.com/telegramdesktop/tdesktop)
+
+- [Transmission](https://github.com/transmission/transmission)
 
 - BleachBit
 
