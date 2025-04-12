@@ -291,7 +291,7 @@ _Automatically places apps in specific workspaces on launch (e.g., Browser → 1
 - df
   
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960" height="672">
+<img src="https://github.com/user-attachments/assets/8e10a72f-e8b1-4f12-af35-44e3bf7ff58b" alt="Sekiro-shadows-die-twice-art_1920x1344" width="960">
 <br>
 </div>
 
