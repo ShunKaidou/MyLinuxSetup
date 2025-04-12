@@ -38,7 +38,7 @@ Comment=Note App
 setting here
 
 
-- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (Timeshift and Back In Time are optional tools for system restore points and personal file backups, respectively.)
+- [Time Shift](https://github.com/linuxmint/timeshift) or [Back In Time](https://github.com/bit-team/backintime) (Optional tools for system restore points and personal file backups, respectively.)
 
 - Telegram-Desktop
 
