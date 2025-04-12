@@ -124,6 +124,8 @@ setting here
 
 ### VSCode
 
+_[Disable telemetry](https://code.visualstudio.com/docs/configure/telemetry)_
+
 ---
 
 ### Extension Manager
