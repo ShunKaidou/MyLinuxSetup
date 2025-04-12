@@ -91,7 +91,7 @@ setting here
 
   <br><br>
 
-- Vlc
+- [VLC Media Player](https://www.videolan.org/vlc/)
 
   <br><br>
 
