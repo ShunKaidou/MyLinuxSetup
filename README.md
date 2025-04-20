@@ -28,6 +28,8 @@ partition details here
 
 - Chromium
 
+setting up ublock origin with cookie blocking and other things etc
+
 <br><br>
 
 - Dconf Editor
