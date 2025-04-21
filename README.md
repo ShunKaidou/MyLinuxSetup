@@ -119,7 +119,7 @@ setting here
 
 #### Chromium
 
-<br>
+<br>JUMPAPP AND CHECL OTHER STARRED REPOS THAT MIGHT HAVE BEEN USED
 
 ---
 
